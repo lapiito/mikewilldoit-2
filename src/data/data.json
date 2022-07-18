@@ -1,10 +1,10 @@
 {
-    "name": "MikeWillDoIT",
-    "image": "/me.jpg",
-    "profession": "Web Developer/SEO/Digital Marketing",
-    "intro": "Focused on building products that will make people's lives better. We also create content in form of blogs and threads. We love to learn new things and We are always open to learn new technologies.",
-    "about": "We are a Team of Professionals with many years of Experience in Web Development,SEO abd Digital Marketing.We have high level of developing a very beautiful responsive website  and success driven website traffic through organic means. We are Currently employed as Head of Web Development,SEO and Digital marketing for vaarious clients in the Music Industry,Charity,Legal,Games and Manufacturing. To deliver the right product for your business, we work with a focus on standards, aesthetics, and professionalism.",
-    "website": "https://www.mikewilldoit.com",
+    "name": "Mike Fiat",
+    "image": "/me.png",
+    "profession": "FullStack web developer",
+    "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
+    "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
+    "website": "https://www.avneesh.tech",
     "skills": [
         {
             "src": "/logos/react.svg",
@@ -78,6 +78,7 @@
     ],
     "services": [
         {
+<<<<<<< HEAD
             "name": "Help your business grow with a beautifully responsive designed website that showcases your products and services and helps you build your brand.",
             "heading": "TRUST US",
             "value": "WEB DESIGN & DEVELOPMENT"
@@ -91,6 +92,20 @@
             "name": "Our team will be happy to assist you with any On-Page or Off-Page SEO technical/ranking issues you may be experiencing. We are all about driving ROI, and as an expert in 123-Reg, Squarespace, and WordPress SEO Development, I use organic, free methods of ranking and ensure you outperform your competitors.",
             "heading": "",
             "value": "SEARCH ENGINE OPTIMIZATION"
+=======
+            "value": "I have launched more than 2 products on Product Hunt with Fiatand I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
+            "name": "Kira",
+            "relation": "Co-worker",
+            "pfp": "https://avatars.githubusercontent.com/u/90365542?v=4",
+            "link": "https://github.com/Kira272921/"
+        },
+        {
+            "value": "I've worked on numerous projects with Fiatand the flow has always been perfect. Fiatis a great leader and we also listen to spotify together!",
+            "name": "Anurag",
+            "relation": "Co-builder",
+            "pfp": "https://avatars.githubusercontent.com/u/77309809?v=4",
+            "link": "https://anurag.tech"
+>>>>>>> b614ba8 (Cams commit)
         }
     ],
     "links": [
