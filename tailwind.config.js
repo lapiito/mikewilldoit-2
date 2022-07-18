@@ -7,7 +7,7 @@ module.exports = {
                 text: '#C7D3FF',
                 textDark: '#A1ABBF',
                 bgblue: '#222E50',
-                darkerBlue: '#0A192F',
+                darkerBlue: '#240090',
             },
             fontFamily: {
                 sora: ['Sora', 'sans-serif'],
