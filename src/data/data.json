@@ -1,10 +1,19 @@
 {
+<<<<<<< HEAD
     "name": "MikeWillDoIT",
     "image": "/me.jpg",
     "profession": "Web Developer/SEO/Digital Marketing",
     "intro": "Focused on building products that will make people's lives better. We also create content in form of blogs and threads. We love to learn new things and We are always open to learn new technologies.",
     "about": "We are a Team of Professionals with many years of Experience in Web Development,SEO abd Digital Marketing.We have high level of developing a very beautiful responsive website  and success driven website traffic through organic means. We are Currently employed as Head of Web Development,SEO and Digital marketing for vaarious clients in the Music Industry,Charity,Legal,Games and Manufacturing. To deliver the right product for your business, we work with a focus on standards, aesthetics, and professionalism.",
     "website": "https://www.mikewilldoit.com",
+=======
+    "name": "Mike Fiat",
+    "image": "/me.png",
+    "profession": "FullStack web developer",
+    "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
+    "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
+    "website": "https://www.avneesh.tech",
+>>>>>>> 1d285def96960f2fae51200a7ced1074dd23114f
     "skills": [
         {
             "src": "/logos/react.svg",
