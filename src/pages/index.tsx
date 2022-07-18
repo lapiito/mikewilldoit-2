@@ -4,8 +4,8 @@ import Blog from '@/components/Blog';
 import Contact from '@/components/Contact';
 import Intro from '@/components/Intro';
 import Projects from '@/components/Projects';
+import Services from '@/components/Services';
 import Skills from '@/components/Skills';
-import Testimonials from '@/components/Testimonials';
 import { PostType } from '@/types/PostType';
 import getPosts from '@/utils/getPosts';
 import { GetStaticProps } from 'next';
@@ -20,7 +20,7 @@ const Home: FC<Props> = ({ Posts }) => {
         <Layout>
             <Intro />
             <About />
-            <Testimonials />
+            <Services />
             <Projects />
             <Skills />
             <Blog Posts={Posts} />

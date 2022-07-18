@@ -1,10 +1,10 @@
 {
-    "name": "Avneesh Agarwal",
-    "image": "/me.png",
-    "profession": "FullStack web developer",
-    "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
-    "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
-    "website": "https://www.avneesh.tech",
+    "name": "MikeWillDoIT",
+    "image": "/me.jpg",
+    "profession": "Web Developer/SEO/Digital Marketing",
+    "intro": "Focused on building products that will make people's lives better. We also create content in form of blogs and threads. We love to learn new things and We are always open to learn new technologies.",
+    "about": "We are a Team of Professionals with many years of Experience in Web Development,SEO abd Digital Marketing.We have high level of developing a very beautiful responsive website  and success driven website traffic through organic means. We are Currently employed as Head of Web Development,SEO and Digital marketing for vaarious clients in the Music Industry,Charity,Legal,Games and Manufacturing. To deliver the right product for your business, we work with a focus on standards, aesthetics, and professionalism.",
+    "website": "https://www.mikewilldoit.com",
     "skills": [
         {
             "src": "/logos/react.svg",
@@ -12,111 +12,122 @@
             "link": "https://reactjs.org/"
         },
         {
+            "src": "/logos/c++.svg",
+            "name": "C++",
+            "link": "https://www.w3schools.com/CPP/default.asp"
+        },
+        {
+            "src": "/logos/javascript.svg",
+            "name": "Javascript",
+            "link": "https://www.javascript.com/"
+        },
+        {
+            "src": "/logos/python.svg",
+            "name": "Python",
+            "link": "https://www.python.org/"
+        },
+        {
             "src": "/logos/nextjs.svg",
-            "name": "Next",
-            "link": "https://nextjs.org/"
+            "name": "NextJs",
+            "link": "https://nextjs.org//"
         },
         {
-            "src": "/logos/typescript.svg",
-            "name": "Typescript",
-            "link": "https://www.typescriptlang.org/"
+            "src": "/logos/nodejs.svg",
+            "name": "Nodejs",
+            "link": "https://nodejs.org/"
         },
         {
-            "src": "/logos/thirdweb.svg",
-            "name": "Thirdweb",
-            "link": "https://thirdweb.com"
-        },
-        {
-            "src": "/logos/tailwind.svg",
-            "name": "Tailwind",
-            "link": "https://tailwindcss.com/"
+            "src": "/logos/css3.svg",
+            "name": "Css3",
+            "link": "https://www.w3schools.com/css/"
         }
     ],
     "projects": [
         {
-            "name": "Irish Players Club",
-            "image": "https://res.cloudinary.com/didkcszrq/image/upload/v1646014704/Frame_1_cglafw.png",
-            "about": "A NFT collection of 5,555 unique leprechaun NFTs created by former Domers in an effort to support currently rostered Notre Dame football players.",
-            "tech": ["Next.js", "Solidity", "Node.js", "Chakra UI", "Firebase"],
+            "name": "Australasia.com",
+            "image": "/projects/australasia.png",
+            "about": "Australasia comprises Australia, New Zealand, the island of New Guinea & neighboring islands in the Pacific Ocean. Australasia.com will display all Regions & Sub-regions of Australasia, outlining a variety of information to learn about. From enchanting History, Places to See, Things to do & everything in between.",
+            "tech": ["React.js", "CSS", "Node.js", "JavaScript", "Firebase"],
             "links": {
-                "Live": "https://www.irishplayersclub.com/"
+                "Live": "https://australasia.com/"
             },
-            "role": "Fullstack web3 developer"
+            "role": "Senior Web developer"
         },
         {
-            "name": "React and Next.js Snippets",
-            "image": "/projects/react-next.js-snips.png",
-            "about": "Packed with a lot of React and Next.js snippets, along with typescript! It is very easy to use, you can simply install it and type in the prefix for the snippets.",
-            "tech": ["VScode", "React", "Next.js"],
+            "name": "Watchmen Global Ministry",
+            "image": "/projects/watchmen.png",
+            "about": "WCN is a global network of Christians across the globe,we believe in transforming lives through the spread of the gospel.WCN was established to be an arena to train,equip and raise People by building the spiritual ,emotional and physical needs of peoples lives. WCN'S core value is deeply rooted in scripture and it's the foundation upon which our ministry endeavors are built.",
+            "tech": ["CSS", "JavaScript", "HTML"],
             "links": {
-                "GitHub": "https://github.com/avneesh0612/react-nextjs-snippets",
-                "Live": "https://www.producthunt.com/posts/react-and-next-js-snippets"
+                "GitHub": "https://github.com/lapiito/wcnetwork",
+                "Live": "https://watchmenglobal.org"
             },
             "role": "Lead developer"
         },
         {
-            "name": "Faucetli",
-            "image": "/projects/faucetli.png",
-            "about": "🦄 Faucetli is a minimal command-line tool to receive testnet tokens right away from your terminal.",
-            "tech": ["Node.js", "Web3.js", "Typescript"],
+            "name": "StageZay Group LTD ",
+            "image": "/projects/stagezay.png",
+            "about": "Stage Zay Group comprises member firms in various industries, including general logistics, real estate development and management, shipping, ticketing and hotel Reservations.",
+            "tech": ["CSS", "JavaScript", "HTML"],
             "links": {
                 "GitHub": "https://github.com/Kira272921/faucetli",
-                "Live": "https://www.producthunt.com/posts/faucetli"
+                "Live": "https://www.stagezaygroup.com"
             },
-            "role": "Co-builder"
+            "role": "Lead developer"
         }
     ],
-    "testimonials": [
+    "services": [
         {
-            "value": "I have launched more than 2 products on Product Hunt with Avneesh and I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
-            "name": "Kira",
-            "relation": "Co-worker",
-            "pfp": "https://avatars.githubusercontent.com/u/90365542?v=4",
-            "link": "https://github.com/Kira272921/"
+            "name": "Help your business grow with a beautifully responsive designed website that showcases your products and services and helps you build your brand.",
+            "heading": "TRUST US",
+            "value": "WEB DESIGN & DEVELOPMENT"
         },
         {
-            "value": "I've worked on numerous projects with Avneesh and the flow has always been perfect. Avneesh is a great leader and we also listen to spotify together!",
-            "name": "Anurag",
-            "relation": "Co-builder",
-            "pfp": "https://avatars.githubusercontent.com/u/77309809?v=4",
-            "link": "https://anurag.tech"
+            "name": "Social media marketing allows brands to interact and reach out to potential customers wherever they are. With a robust social media strategy and the ability to create engaging content, brands can engage their target audience.",
+            "heading": "You can trust us with the best Digital Marketing",
+            "value": "SOCIAL MEDIA MARKETING"
+        },
+        {
+            "name": "Our team will be happy to assist you with any On-Page or Off-Page SEO technical/ranking issues you may be experiencing. We are all about driving ROI, and as an expert in 123-Reg, Squarespace, and WordPress SEO Development, I use organic, free methods of ranking and ensure you outperform your competitors.",
+            "heading": "",
+            "value": "SEARCH ENGINE OPTIMIZATION"
         }
     ],
     "links": [
         {
             "name": "GitHub",
             "icon": "github.svg",
-            "link": "https://github.com/avneesh0612"
+            "link": "https://github.com/lapiito"
         },
         {
             "name": "Twitter",
             "icon": "twitter.svg",
-            "link": "https://twitter.com/avneesh0612"
+            "link": "https://twitter.com/lapiito1"
         },
         {
             "name": "Hashnode",
             "icon": "hashnode.svg",
-            "link": "https://blog.avneesh.tech"
+            "link": "https://mikewilldoit.hashnode.dev/"
         },
         {
-            "name": "Showwcase",
-            "icon": "showwcase.svg",
-            "link": "https://www.showwcase.com/avneesh"
+            "name": "Facebook",
+            "icon": "facebook.svg",
+            "link": "https://web.facebook.com/lapiitoblaze"
         },
         {
             "name": "Instagram",
             "icon": "instagram.svg",
-            "link": "https://instagram.com/avneesh.codes"
+            "link": "https://instagram.com/lapiito12"
         },
         {
             "name": "Mail me",
             "icon": "mail.svg",
-            "link": "mailto:avneeshagarwal0612@gmail.com"
+            "link": "mailto:mikewilldoit16@gmail.com"
         },
         {
             "name": "LinkedIn",
             "icon": "linkedin.svg",
-            "link": "https://www.linkedin.com/in/avneesh0612"
+            "link": "https://www.linkedin.com/in/michael-fiatuho-8b6286168/"
         }
     ]
 }

@@ -4,9 +4,9 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "Avneesh Agarwal",
-    "short_name": "Avneesh",
-    "description": "Avneesh's portfolio",
+    "name": "Mike Fiat",
+    "short_name": "Mike",
+    "description": "Mike's portfolio",
     "icons": [
         {
             "src": "/icon-192x192.png",

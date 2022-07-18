@@ -4,8 +4,8 @@ const navOptions = [
         href: 'about',
     },
     {
-        name: 'Testimonials',
-        href: 'testimonials',
+        name: 'Services',
+        href: 'services',
     },
     {
         name: 'Work',

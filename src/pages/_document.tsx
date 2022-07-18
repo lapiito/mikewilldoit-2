@@ -5,7 +5,7 @@ const Document = () => {
     return (
         <Html lang="en">
             <Head>
-                <link href="/logo.svg" rel="icon" />
+                <link href="/logo.png" rel="icon" />
                 <link
                     href={`${data.website}/rss.xml`}
                     rel="alternate"
@@ -17,7 +17,7 @@ const Document = () => {
                     property="og:image"
                 />
                 <meta
-                    content="Avneesh, Agarwal, Avneesh Agarwal, web dev, blogger, content creator"
+                    content="Mike, Fiat, Mike Fiat, web dev, blogger, content creator,SEO ,Search Engine Optimization"
                     name="keywords"
                 />
                 <link href="/manifest.json" rel="manifest" />

@@ -29,17 +29,17 @@ function MyApp({ Component, pageProps }: AppProps) {
                         },
                     ],
                     profile: {
-                        firstName: 'Avneesh',
+                        firstName: 'Mike',
                         gender: 'Male',
-                        lastName: 'Agarwal',
-                        username: 'avneesh0612',
+                        lastName: 'Fiat',
+                        username: 'lapiito',
                     },
                 }}
                 title={data.name}
                 titleTemplate={data.name}
                 twitter={{
-                    handle: '@avneesh0612',
-                    site: '@avneesh0612',
+                    handle: '@lapiito12',
+                    site: '@lapiito12',
                     cardType: 'summary_large_image',
                 }}
             />

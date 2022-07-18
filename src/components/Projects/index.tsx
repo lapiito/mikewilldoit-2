@@ -5,7 +5,7 @@ import data from '@/data/data.json';
 const Projects = () => {
     return (
         <div id="work">
-            <Title num={3} title="Some Things I’ve Built" />
+            <Title num={3} title="Some of Our Works" />
 
             <div className="flex flex-col">
                 {data.projects.map((project, i) => (
