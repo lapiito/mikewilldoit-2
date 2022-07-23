@@ -78,21 +78,6 @@
     ],
     "services": [
         {
-<<<<<<< HEAD
-            "name": "Help your business grow with a beautifully responsive designed website that showcases your products and services and helps you build your brand.",
-            "heading": "TRUST US",
-            "value": "WEB DESIGN & DEVELOPMENT"
-        },
-        {
-            "name": "Social media marketing allows brands to interact and reach out to potential customers wherever they are. With a robust social media strategy and the ability to create engaging content, brands can engage their target audience.",
-            "heading": "You can trust us with the best Digital Marketing",
-            "value": "SOCIAL MEDIA MARKETING"
-        },
-        {
-            "name": "Our team will be happy to assist you with any On-Page or Off-Page SEO technical/ranking issues you may be experiencing. We are all about driving ROI, and as an expert in 123-Reg, Squarespace, and WordPress SEO Development, I use organic, free methods of ranking and ensure you outperform your competitors.",
-            "heading": "",
-            "value": "SEARCH ENGINE OPTIMIZATION"
-=======
             "value": "I have launched more than 2 products on Product Hunt with Fiatand I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
             "name": "Kira",
             "relation": "Co-worker",
@@ -105,7 +90,6 @@
             "relation": "Co-builder",
             "pfp": "https://avatars.githubusercontent.com/u/77309809?v=4",
             "link": "https://anurag.tech"
->>>>>>> b614ba8 (Cams commit)
         }
     ],
     "links": [
