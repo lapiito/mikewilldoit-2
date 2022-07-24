@@ -44,9 +44,9 @@ const Header = () => {
                 <Image
                     alt={data.name2}
                     className="logo"
-                    width="300px"
                     height="160px"
                     src={data.image2}
+                    width="300px"
                 />
             </Link>
 

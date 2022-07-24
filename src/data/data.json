@@ -80,6 +80,7 @@
     ],
     "services": [
         {
+            "heading": "",
             "value": "I have launched more than 2 products on Product Hunt with Fiatand I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
             "name": "Kira",
             "relation": "Co-worker",
@@ -87,6 +88,7 @@
             "link": "https://github.com/Kira272921/"
         },
         {
+            "heading": "",
             "value": "I've worked on numerous projects with Fiatand the flow has always been perfect. Fiatis a great leader and we also listen to spotify together!",
             "name": "Anurag",
             "relation": "Co-builder",
