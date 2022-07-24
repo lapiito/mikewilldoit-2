@@ -1,10 +1,12 @@
 {
     "name": "Mike Fiat",
-    "image": "/me.png",
-    "profession": "FullStack web developer",
-    "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
-    "about": "I am a full-stack web developer who loves to design and develop beautiful websites. I have been coding for over a year and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing.",
-    "website": "https://www.avneesh.tech",
+    "image": "/mike.jpg",
+    "image2": "/me2.png",
+    "name2": "mikewilldoIT.com",
+    "profession": "FullStack Web Developer & all-round nice guy :)",
+    "intro": "I am focused on building products that will bring people's ideas to life. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
+    "about": "I have been coding for a few years now and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing. There are many options for how and where to get your website built & maintained - so why choose me? You will have a direct relationship with the Developer and are able to recieve the service and the product to your exact requirements. Navigating the software industry can be a complicated minefield with no guidance, but don't stress because MikeWillDoIt and talk you through every step of the process :)",
+    "website": "mikewilldoit.com",
     "skills": [
         {
             "src": "/logos/react.svg",

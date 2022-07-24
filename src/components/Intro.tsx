@@ -12,12 +12,12 @@ const Intro = () => {
             initial={{ y: 40 }}
             transition={{ duration: 0.5 }}
         >
-            <p className="text-3xl text-neon font-fira">Hey, We are</p>
+            <p className="text-3xl text-neon font-fira">Hey, I am</p>
             <h1 className="text-5xl font-extrabold text-text md:text-8xl">
                 {data.name}
             </h1>
             <h2 className="text-4xl text-textDark md:text-6xl">
-                We build amazing websites!
+                And I build Amazing Websites!
             </h2>
             <p className="w-4/5 md:w-3/5 text-textDark">
                 We&rsquo;are{' '}

@@ -1,6 +1,7 @@
-import Logo from '../../Icons/Logo';
 import NavOption from './NavOption';
 import navOptions from './navOptions';
+import data from '@/data/data.json';
+import Image from 'next/image';
 import { useEffect, useState } from 'react';
 import { Link } from 'react-scroll';
 
@@ -26,7 +27,7 @@ const Header = () => {
 
     return (
         <nav
-            className={`px-8 md:px-24 fixed md:py-4 py-6 bg-bgblue/60 backdrop-filter backdrop-blur-xl w-full max-w-[100vw] top-0 z-20 flex justify-between items-center ${
+            className={`px-8 md:px-24 fixed bg-bgblue/60 backdrop-filter backdrop-blur-xl w-full max-w-[100vw] top-0 z-20 flex justify-between items-center ${
                 handleShow ? 'shadow-2xl' : ''
             }`}
         >
@@ -37,10 +38,16 @@ const Header = () => {
                 offset={-100}
                 smooth={true}
                 spy={true}
-                title="Avneesh"
+                title="MikeWillDoIt"
                 to="intro"
             >
-                <Logo className="cursor-pointer" />
+                <Image
+                    alt={data.name2}
+                    className="logo"
+                    width="300px"
+                    height="160px"
+                    src={data.image2}
+                />
             </Link>
 
             <ol className="hidden space-x-8 md:flex">
