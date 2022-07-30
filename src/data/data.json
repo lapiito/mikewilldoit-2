@@ -1,11 +1,11 @@
 {
-    "name": "Mike Fiat",
+    "name": "MikeWillDoIT",
     "image": "/mike.jpg",
     "image2": "/me2.png",
     "name2": "mikewilldoIT.com",
     "profession": "FullStack Web Developer & all-round nice guy :)",
-    "intro": "I am focused on building products that will bring people's ideas to life. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
-    "about": "I have been coding for a few years now and enjoying every part of my journey. I love documenting my journey by writing blog posts and teaching others through my writing. There are many options for how and where to get your website built & maintained - so why choose me? You will have a direct relationship with the Developer and are able to recieve the service and the product to your exact requirements. Navigating the software industry can be a complicated minefield with no guidance, but don't stress because MikeWillDoIt and talk you through every step of the process :)",
+    "intro": "We are focused on building products that will bring people's ideas to life. We also create content in form of blogs and threads. We are a Team who love to learn new things and we am always open to learn new technologies.",
+    "about": "We have been coding for a few years now and enjoying every part of our journey. MikeWillDoIT has extensive experience in website development and management, as well as digital marketing and search engine optimization (SEO). We are dedicated to creating user-friendly websites, providing excellent customer service, and providing affordable and customized digital solutions.",
     "website": "mikewilldoit.com",
     "skills": [
         {
@@ -80,20 +80,28 @@
     ],
     "services": [
         {
-            "heading": "",
-            "value": "I have launched more than 2 products on Product Hunt with Fiatand I have enjoyed the entire journey from getting the project idea till launching it on Product Hunt",
-            "name": "Kira",
-            "relation": "Co-worker",
-            "pfp": "https://avatars.githubusercontent.com/u/90365542?v=4",
-            "link": "https://github.com/Kira272921/"
+            "heading": "Please contact us for responsive and interactive websites that feature advanced and intuitive creativity.",
+            "value": "WEB DESIGN AND DEVELOPMENT",
+            "name": "We have been a professional Full Stack developer specialist since 2015. In our professional career, we have completed over 350 projects using various techniques.",
+            "relation": "",
+            "pfp": "",
+            "link": ""
         },
         {
-            "heading": "",
-            "value": "I've worked on numerous projects with Fiatand the flow has always been perfect. Fiatis a great leader and we also listen to spotify together!",
-            "name": "Anurag",
-            "relation": "Co-builder",
-            "pfp": "https://avatars.githubusercontent.com/u/77309809?v=4",
-            "link": "https://anurag.tech"
+            "heading": "Our team of industry-certified media professionals and dedicated employees strives to meet or exceed the client's expectations. Look no further, and get in touch with us right away.",
+            "value": "DIGITAL MARKETING",
+            "name": "MikeWillDoIT provides full range of Digital Marketing services which includes Social Media Marketing, Digital Creatives, Page Set-up & Management, Content Management, Content Creation and ADS Running.",
+            "relation": "",
+            "pfp": "",
+            "link": ""
+        },
+        {
+            "heading": "We offer 30Days / Monthly offPage SEO Service.Boost your Website Ranking by using Whitehat 100% Google Friendly Method",
+            "value": "SEARCH ENGINE OPTIMIZATION",
+            "name": "Our Team will Provide the Best SEO Keywords for your Website.We Offer Technical Complete On-Page SEO for Google Guaranteed Rank ",
+            "relation": "",
+            "pfp": "",
+            "link": ""
         }
     ],
     "links": [
