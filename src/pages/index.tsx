@@ -11,12 +11,8 @@ import getPosts from '@/utils/getPosts';
 import { GetStaticProps } from 'next';
 import React, { FC } from 'react';
 
-
-
 interface Props {
     Posts: [PostType];
-    phoneNumber: string;
-    accountName: string;
 }
 
 const Home: FC<Props> = ({ Posts }) => {
@@ -28,8 +24,6 @@ const Home: FC<Props> = ({ Posts }) => {
             <Projects />
             <Skills />
             <Blog Posts={Posts} />
-           
-
             <Contact />
         </Layout>
     );
@@ -38,7 +32,7 @@ const Home: FC<Props> = ({ Posts }) => {
 export default Home;
 
 export const getStaticProps: GetStaticProps = async () => {
-    const Posts = await getPosts('avneesh0612');
+    const Posts = await getPosts('lapiito');
 
     return {
         props: {
