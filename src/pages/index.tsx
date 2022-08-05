@@ -10,8 +10,8 @@ import { PostType } from '@/types/PostType';
 import getPosts from '@/utils/getPosts';
 import { GetStaticProps } from 'next';
 import React, { FC } from 'react';
-import FloatingWhatsApp from 'react-floating-whatsapp';
-import 'react-floating-whatsapp-button/dist/index.css';
+
+
 
 interface Props {
     Posts: [PostType];
@@ -28,7 +28,7 @@ const Home: FC<Props> = ({ Posts }) => {
             <Projects />
             <Skills />
             <Blog Posts={Posts} />
-            <FloatingWhatsApp accountName="Foo" phoneNumber="123456789" />
+           
 
             <Contact />
         </Layout>
